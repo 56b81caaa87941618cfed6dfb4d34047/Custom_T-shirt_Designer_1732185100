@@ -279,5 +279,15 @@
         "source": "base_assistant",
         "content": "An image of a cute cat has been added to the footer component. Anything else you need help with?",
         "metadata": {}
+    },
+    {
+        "id": "60f9c468-fa5e-4b36-93c2-3dafd96fdd4d",
+        "timestamp": "2024-11-21T10:39:31.102700Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "add another image in the center",
+        "metadata": {
+            "component_id": "Hero1732185104"
+        }
     }
 ]
