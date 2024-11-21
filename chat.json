@@ -452,5 +452,20 @@
         "metadata": {
             "tool_call_id": "call_hGRJcoxgSf1uvrXxQrg8TDaR"
         }
+    },
+    {
+        "id": "44688801-6138-4483-b203-af2528d30b1e",
+        "timestamp": "2024-11-21T10:41:17.547891Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_CpLoCEM60FpL3O5RIFtBQlcO",
+            "function": {
+                "arguments": "{\"contract_id\":\"EthStaking\",\"description\":\"A smart contract for staking ETH tokens and getting no rewards.\",\"acknowledgement_message\":\"Generating the smart contract for staking ETH tokens without rewards.\"}",
+                "name": "WriteSmartContract"
+            },
+            "type": "function"
+        }
     }
 ]
