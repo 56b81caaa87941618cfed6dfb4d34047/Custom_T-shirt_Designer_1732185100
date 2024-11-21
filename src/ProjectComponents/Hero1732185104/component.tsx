@@ -10,6 +10,9 @@ const Hero: React.FC = () => {
           <p className="text-xl mb-6">Create unique, custom t-shirts that express your style and personality with our easy-to-use design tool.</p>
           <h2 className="text-3xl font-bold mb-4">Buy Now</h2>
         </div>
+        <div className="md:w-1/2 flex justify-center items-center">
+          <p className="text-sm text-gray-400">Copyright 2024</p>
+        </div>
       </div>
     </div>
   );
