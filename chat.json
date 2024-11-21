@@ -220,5 +220,13 @@
         "metadata": {
             "component_id": "Footer1732185104"
         }
+    },
+    {
+        "id": "53507f72-d00e-477f-aaf2-da55baf28f80",
+        "timestamp": "2024-11-21T10:34:11.278337Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Please unselect the current component (`Footer1732185104`) first to see the list of components in the project.",
+        "metadata": {}
     }
 ]
