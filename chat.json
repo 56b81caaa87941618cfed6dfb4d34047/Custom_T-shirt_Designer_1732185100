@@ -108,5 +108,15 @@
         "source": "base_assistant",
         "content": "The title \"Buy Now\" has been added. Is there anything else you want to change or add?",
         "metadata": {}
+    },
+    {
+        "id": "18cd3705-c6ad-44e3-ae1e-7ce17eabb6a7",
+        "timestamp": "2024-11-21T10:33:13.763364Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "A copy that says COprigth 2024",
+        "metadata": {
+            "component_id": "Footer1732185104"
+        }
     }
 ]
