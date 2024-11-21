@@ -11,7 +11,7 @@ const Hero: React.FC = () => {
           <h2 className="text-3xl font-bold mb-4">Buy Now</h2>
         </div>
         <div className="md:w-1/2 flex justify-center items-center">
-          <p className="text-sm text-gray-400">Copyright 2024</p>
+          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Custom_T-shirt_Designer_1732185100/main/src/assets/images/2aa7880af1ad4208b2bf0ea15ce4af97.jpeg" alt="Hero" className="max-w-full h-auto rounded-lg shadow-md" />
         </div>
       </div>
     </div>
