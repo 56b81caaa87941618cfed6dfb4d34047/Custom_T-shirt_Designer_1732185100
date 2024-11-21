@@ -228,5 +228,15 @@
         "source": "base_assistant",
         "content": "Please unselect the current component (`Footer1732185104`) first to see the list of components in the project.",
         "metadata": {}
+    },
+    {
+        "id": "5d6abda7-99aa-4b92-b7e2-e1fca230f713",
+        "timestamp": "2024-11-21T10:38:42.508973Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "put an image there of a cat",
+        "metadata": {
+            "component_id": "Header1732185104"
+        }
     }
 ]
