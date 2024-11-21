@@ -16,5 +16,20 @@
         "metadata": {
             "component_id": "Header1732185104"
         }
+    },
+    {
+        "id": "046f0a2a-a58c-4294-b3bd-63afc6824221",
+        "timestamp": "2024-11-21T10:32:20.583748Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_kaNzubHjzsvJ3Tnr3r4Epm4F",
+            "function": {
+                "arguments": "{\"component_id\":\"Header1732185104\",\"change_description\":\"Add a title that says 'T-Shirts on Sale'\",\"acknowledgement_message\":\"Okay, adding a title with 'T-Shirts on Sale'.\"}",
+                "name": "EditFrontendComponent"
+            },
+            "type": "function"
+        }
     }
 ]
