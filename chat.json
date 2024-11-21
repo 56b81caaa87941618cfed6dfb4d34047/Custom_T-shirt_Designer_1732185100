@@ -57,5 +57,15 @@
         "source": "base_assistant",
         "content": "The title \"T-Shirts on Sale\" has been added. Is there anything else you would like to do?",
         "metadata": {}
+    },
+    {
+        "id": "87c9b1b8-0c1a-4c9c-a5a1-70f16857bf04",
+        "timestamp": "2024-11-21T10:32:45.416389Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "add a title that says buy now",
+        "metadata": {
+            "component_id": "Hero1732185104"
+        }
     }
 ]
