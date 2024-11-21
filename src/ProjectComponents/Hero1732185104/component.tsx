@@ -8,6 +8,7 @@ const Hero: React.FC = () => {
         <div className="md:w-1/2 mb-8 md:mb-0">
           <h1 className="text-4xl font-bold mb-4">Design Your Story, Wear Your Passion</h1>
           <p className="text-xl mb-6">Create unique, custom t-shirts that express your style and personality with our easy-to-use design tool.</p>
+          <h2 className="text-3xl font-bold mb-4">Buy Now</h2>
         </div>
       </div>
     </div>
