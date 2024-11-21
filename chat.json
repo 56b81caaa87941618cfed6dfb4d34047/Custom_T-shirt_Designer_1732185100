@@ -348,5 +348,15 @@
         "source": "base_assistant",
         "content": "Could you please provide more details regarding the content or style of the title you would like generated?",
         "metadata": {}
+    },
+    {
+        "id": "2430df41-9c40-4946-9737-404d52072102",
+        "timestamp": "2024-11-21T10:40:07.869204Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "anything",
+        "metadata": {
+            "component_id": "Footer1732185104"
+        }
     }
 ]
