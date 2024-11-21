@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "ThreadCraft",
+        "HERO_HEADING_TEXT": "Design Your Story, Wear Your Passion",
+        "HERO_SUBHEADING_TEXT": "Create unique, custom t-shirts that express your style and personality with our easy-to-use design tool.",
+        "FOOTER_TEXT": "\u00a9 2023 ThreadCraft. Stitching creativity into every thread."
+    }
+}
