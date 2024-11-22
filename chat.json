@@ -544,5 +544,13 @@
         "source": "smart_contract_assistant",
         "content": "The ETH staking contract has been deployed and the frontend has been generated. Is there anything else you'd like to do?",
         "metadata": {}
+    },
+    {
+        "id": "e0b5d031-1849-4b20-89e0-ac86a5bfd873",
+        "timestamp": "2024-11-22T10:20:07.484090Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want you genreate a sc frontend interaction 0x2bfaef91588494edbf25ce1c80fb114160adbc8e in holeskuy",
+        "metadata": {}
     }
 ]
