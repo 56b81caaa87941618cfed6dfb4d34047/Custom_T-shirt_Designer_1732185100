@@ -6,5 +6,15 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "2a7f45a1-160a-4d8a-9dd6-b425fd0c59e4",
+        "timestamp": "2024-11-25T15:47:55.042632Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "create a frontend for the sc address 0x1F98431c8aD98523631AE4a59f267346ea31F984 in ethreum now on the hero",
+        "metadata": {
+            "component_id": "Header1732185104"
+        }
     }
 ]
