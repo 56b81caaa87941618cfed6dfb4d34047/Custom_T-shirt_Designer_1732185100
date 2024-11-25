@@ -57,5 +57,13 @@
         "source": "base_assistant",
         "content": "I have created the frontend for the smart contract on the Hero component. What's next on your agenda?",
         "metadata": {}
+    },
+    {
+        "id": "17295f9c-3447-47f4-aa88-1874e4208d4b",
+        "timestamp": "2024-11-25T16:07:30.011364Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "create a frontend for the sc address 0x4E46BD7147ccf666E1d73A3A456fC7a68de82eCA in holesky now on the hero",
+        "metadata": {}
     }
 ]
