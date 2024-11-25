@@ -6,5 +6,13 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "8c4f0f22-33f7-4400-bcc0-be09238a350d",
+        "timestamp": "2024-11-25T15:19:23.894045Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "generate a frontendinteraction for the smart contract 0x1F98431c8aD98523631AE4a59f267346ea31F984 in ethereum",
+        "metadata": {}
     }
 ]
