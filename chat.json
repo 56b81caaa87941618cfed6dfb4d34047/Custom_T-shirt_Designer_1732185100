@@ -16,5 +16,20 @@
         "metadata": {
             "component_id": "Header1732185104"
         }
+    },
+    {
+        "id": "92000ba9-25a7-4912-93eb-dffa555f8aa3",
+        "timestamp": "2024-11-25T15:48:00.144263Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_zFMxDODjCHAD14frSISFRD2l",
+            "function": {
+                "arguments": "{\"component_id\":\"Hero1732185104\",\"sc_address\":\"0x1F98431c8aD98523631AE4a59f267346ea31F984\",\"chain_id\":\"ETHEREUM\",\"change_description\":\"create frontend for the smart contract\",\"acknowledgement_message\":\"Creating frontend for the smart contract on the Hero component...\"}",
+                "name": "EditSmartContractFrontendComponent"
+            },
+            "type": "function"
+        }
     }
 ]
