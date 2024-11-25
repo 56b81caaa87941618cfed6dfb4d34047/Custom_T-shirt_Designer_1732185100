@@ -6,36 +6,5 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
-    },
-    {
-        "id": "8c4f0f22-33f7-4400-bcc0-be09238a350d",
-        "timestamp": "2024-11-25T15:19:23.894045Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "generate a frontendinteraction for the smart contract 0x1F98431c8aD98523631AE4a59f267346ea31F984 in ethereum",
-        "metadata": {}
-    },
-    {
-        "id": "8235803a-442c-4b6b-8ee5-bbd1247da934",
-        "timestamp": "2024-11-25T15:19:29.545877Z",
-        "role": "tool_call",
-        "source": "base_assistant",
-        "content": null,
-        "metadata": {
-            "id": "call_VUL0vSa6hVbpYEg4ZQNgz4xz",
-            "function": {
-                "arguments": "{\"component_id\":\"Hero1732185104\",\"sc_address\":\"0x1F98431c8aD98523631AE4a59f267346ea31F984\",\"chain_id\":\"ETHEREUM\",\"change_description\":\"generate a frontend interaction for the provided smart contract\",\"acknowledgement_message\":\"Okay, I'm editing the component to interact with the smart contract at 0x1F98431c8aD98523631AE4a59f267346ea31F984\"}",
-                "name": "EditSmartContractFrontendComponent"
-            },
-            "type": "function"
-        }
-    },
-    {
-        "id": "5037a137-b7f1-46de-aec8-abeee3b533e1",
-        "timestamp": "2024-11-25T15:19:30.878484Z",
-        "role": "assistant",
-        "source": "tool:edit_smart_contract_frontend_component",
-        "content": "Okay, I'm editing the component to interact with the smart contract at 0x1F98431c8aD98523631AE4a59f267346ea31F984",
-        "metadata": {}
     }
 ]
